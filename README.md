@@ -1,2 +1,2 @@
 # SqlStudyFile
-This is an SQL script file which is created for My ProductChase project.
+This repository contains my sql files whichs are created for my projects
